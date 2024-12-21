@@ -1,6 +1,6 @@
 # Arcane-Doughty-Optimizer
 
-A Python-based tool for optimizing stat stick weapons that leverage Arcane Doughty mechanics in Warframe. Currently configured for the Ceramic Dagger, but easily adaptable to other weapons.
+A Python-based tool for optimizing stat stick builds that make use of Arcane Doughty in Warframe. Currently configured for the Ceramic Dagger, but easily adaptable to other weapons.
 
 ## Overview
 
